@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/josh-wambua/lww-element-set.git"
+    "url": "git+https://github.com/josh-wambua/JSLWWElementSets.git"
   },
   "keywords": [
     "LWW",
@@ -19,7 +19,7 @@
   "author": "Joseph W. Joshua",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/josh-wambua/lww-element-set/issues"
+    "url": "https://github.com/josh-wambua/JSLWWElementSets/issues"
   },
-  "homepage": "https://github.com/josh-wambua/lww-element-set#readme"
+  "homepage": "https://github.com/josh-wambua/JSLWWElementSets#readme"
 }
